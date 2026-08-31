@@ -13,7 +13,7 @@ require_login();
 <body>
 <div class="page">
   <header>
-    <a href="index.php">TITLE</a>
+    <a href="index.php">ABEDEMIC</a>
     <a href="home.php">HOME</a>
     <a href="insert.php">INSERT</a>
     <a href="profile.php">PROFILE</a>
